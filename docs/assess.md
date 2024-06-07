@@ -1,6 +1,6 @@
 ---
 nav:
-  title: 首页
+  title: 送评须知
   order: 0
 toc: menu
 ---

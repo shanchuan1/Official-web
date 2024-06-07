@@ -1,6 +1,6 @@
 ---
 nav:
-  title: 首页
+  title: 新闻中心
   order: 0
 toc: menu
 ---
