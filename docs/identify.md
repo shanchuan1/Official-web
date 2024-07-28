@@ -1,6 +1,6 @@
 ---
 nav:
   title: 钱币鉴赏
-  order: 0
+  order: 3
 toc: menu
 ---
