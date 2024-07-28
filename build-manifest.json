@@ -1,18 +1,18 @@
 {
   "assets": {
-    "umi.css": "/umi.13488462.css",
-    "umi.js": "/umi.e24c9828.js",
-    "meta__docs.js": "/meta__docs.53fe0fce.async.js",
-    "nm__dumi__dist__client__pages__404.js": "/nm__dumi__dist__client__pages__404.8bf60a3c.async.js",
-    "dumi__tmp-production__dumi__theme__ContextWrapper.js": "/dumi__tmp-production__dumi__theme__ContextWrapper.6669e058.async.js",
-    "nm__dumi__theme-default__layouts__DocLayout__index.js": "/nm__dumi__theme-default__layouts__DocLayout__index.6a03aa9d.async.js",
-    "docs__identify.md.js": "/docs__identify.md.18cde231.async.js",
-    "docs__assess.md.js": "/docs__assess.md.1719f065.async.js",
-    "docs__search.md.js": "/docs__search.md.a0bd0111.async.js",
-    "docs__about.md.js": "/docs__about.md.7e011409.async.js",
-    "docs__guide.md.js": "/docs__guide.md.04b96a78.async.js",
-    "docs__index.md.js": "/docs__index.md.eebc5f2d.async.js",
-    "docs__new.md.js": "/docs__new.md.c55c6618.async.js",
-    "nm__dumi__dist__client__pages__Demo__index.js": "/nm__dumi__dist__client__pages__Demo__index.67e9b217.async.js"
+    "umi.css": "/Official-web/umi.13488462.css",
+    "umi.js": "/Official-web/umi.df4da83c.js",
+    "meta__docs.js": "/Official-web/meta__docs.53fe0fce.async.js",
+    "nm__dumi__dist__client__pages__404.js": "/Official-web/nm__dumi__dist__client__pages__404.8bf60a3c.async.js",
+    "dumi__tmp-production__dumi__theme__ContextWrapper.js": "/Official-web/dumi__tmp-production__dumi__theme__ContextWrapper.6669e058.async.js",
+    "nm__dumi__theme-default__layouts__DocLayout__index.js": "/Official-web/nm__dumi__theme-default__layouts__DocLayout__index.6a03aa9d.async.js",
+    "docs__identify.md.js": "/Official-web/docs__identify.md.18cde231.async.js",
+    "docs__assess.md.js": "/Official-web/docs__assess.md.1719f065.async.js",
+    "docs__search.md.js": "/Official-web/docs__search.md.a0bd0111.async.js",
+    "docs__about.md.js": "/Official-web/docs__about.md.7e011409.async.js",
+    "docs__guide.md.js": "/Official-web/docs__guide.md.04b96a78.async.js",
+    "docs__index.md.js": "/Official-web/docs__index.md.eebc5f2d.async.js",
+    "docs__new.md.js": "/Official-web/docs__new.md.c55c6618.async.js",
+    "nm__dumi__dist__client__pages__Demo__index.js": "/Official-web/nm__dumi__dist__client__pages__Demo__index.67e9b217.async.js"
   }
 }
