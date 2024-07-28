@@ -8,15 +8,17 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 添加这一行以授予 write 权限
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v1
+      - name: Checkout Repository
+        uses: actions/checkout@v3
       - name: Build Project
         run: |
           npm install
           npm run build
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }} # 使用 GITHUB_TOKEN
           publish_dir: ./docs-dist
