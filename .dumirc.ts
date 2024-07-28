@@ -1,8 +1,18 @@
+/*
+ * @Description:
+ * @Author: shanchuan
+ * @Date: 2024-07-28 13:16:43
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2024-07-28 15:25:23
+ */
 import { defineConfig } from 'dumi';
 
+const repo = 'Official-web';
 
 export default defineConfig({
   title: '杰嘉',
+  base: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
   outputPath: 'docs-dist',
   themeConfig: {
     hd: { rules: [] },
