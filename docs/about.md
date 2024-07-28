@@ -1,6 +1,8 @@
 ---
 nav:
   title: 关于我们
-  order: 0
+  order: 1
 toc: menu
 ---
+
+关于我们

@@ -5,7 +5,7 @@ hero:
   description: <p>您身边最好的艺术品鉴定</p>  <p>The best art appraisal around you 🚀</p>
   actions:
     - text: 进入
-      link: /
+      link: /guide
     - text: 关于我们
       link: /about
 features:

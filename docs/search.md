@@ -1,6 +1,6 @@
 ---
 nav:
   title: 查询入口
-  order: 0
+  order: 5
 toc: menu
 ---

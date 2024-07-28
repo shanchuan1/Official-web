@@ -1,6 +1,8 @@
 ---
 nav:
   title: 送评须知
-  order: 0
+  order: 4
 toc: menu
 ---
+
+送评须知
